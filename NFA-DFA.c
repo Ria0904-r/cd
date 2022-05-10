@@ -323,3 +323,13 @@ Display_DFA(last_index, dfa_states, DFA_TABLE);
 
 return 0;
 }
+
+
+Input : 6
+        2
+        FC - BF
+        - C -
+        - - D
+        E A -
+        A - BF
+        - - -//
