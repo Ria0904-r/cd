@@ -103,3 +103,7 @@ j=1;
 	}
 	return 0;
 }
+
+
+// input = (a/b)*a
+//input = (a+b)*a
